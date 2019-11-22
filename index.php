@@ -65,7 +65,8 @@
 	</style>
 </head>
 <body>
-	<h1>You can find the GitHub repooritory and all files in <a href = "https://github.com/aimon7/NASA">here</a></h1>
+	<h1>NASA Rover Coordinates Input Page</h1>
+	<p>You can find the GitHub repooritory and all files in <a href = "https://github.com/aimon7/NASA">here</a>
 
 	<form action="rover_guide.php" method="POST">
 		<div>
