@@ -66,7 +66,10 @@
 </head>
 <body>
 	<h1>NASA Rover Coordinates Input Page</h1>
+<<<<<<< HEAD
 	<p>You can find the GitHub repooritory and all files in <a href = "https://github.com/aimon7/NASA">here</a>
+=======
+>>>>>>> parent of 31cf151... Update index.php
 
 	<form action="rover_guide.php" method="POST">
 		<div>
