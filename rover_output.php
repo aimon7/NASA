@@ -67,7 +67,7 @@
 					} else {
 						$xRover += 1;
 					}
-					if ($yRover < 0 || $xRover < 0) {
+					if ($yRover < 0 || $yRover > $yGrid || $xRover > $xGrid || $xRover < 0) {
 						echo "You run out of the grid";
 					}
 				}
